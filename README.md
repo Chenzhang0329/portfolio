@@ -6,7 +6,7 @@
 
 ## Education
 - M.S., Data Science | The University of Guelph (_September 2022 - December 2023_)
-- B.S., Mathematics and Statistics | The University of Toronto (_September 2017 - June 2021)
+- B.S., Mathematics and Statistics | The University of Toronto (_September 2017 - June 2021_)
 
 ## Work Experience
 **Data Scientist Intern @ Linamar Ihub (_May 2023 - September 2023_)**
@@ -24,4 +24,9 @@
 
 
 ## Projects
+### Songs Recommendation System
+- Created a database in Postgres SQL, and Streamed Spotify tracker data into database.
+- Connected the database using python and use the SQL query language to clean and process the data.
+- Built and compare the random forest regression model and ALS model with or without implicit rate and explicit rate to establish the final model with explicit rate, which has the lowest RMSE 0.3364
+
 
