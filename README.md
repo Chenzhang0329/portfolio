@@ -1,5 +1,3 @@
-# portfolio
-
 # Data Scientist
 
 #### Technical Skills: Python, R, SAS, SQL, MATLAB, Tableau
@@ -25,8 +23,8 @@
 
 ## Projects
 ### Songs Recommendation System
-- Created a database in Postgres SQL, and Streamed Spotify tracker data into database.
-- Connected the database using python and use the SQL query language to clean and process the data.
-- Built and compare the random forest regression model and ALS model with or without implicit rate and explicit rate to establish the final model with explicit rate, which has the lowest RMSE 0.3364
+Developed a comprehensive project involving the creation of a Postgres SQL database for streaming Spotify tracker data. Utilized Python to connect to the database, employing SQL queries to clean and process the data effectively. Constructed and compared Random Forest Regression and ALS models, incorporating both implicit and explicit rates. Identified the optimal model, featuring explicit rates, achieving a minimal Root Mean Squared Error (RMSE) of 0.3364.
+
+
 
 
