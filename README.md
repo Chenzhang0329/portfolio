@@ -25,6 +25,8 @@
 ### Songs Recommendation System
 Developed a comprehensive project involving the creation of a Postgres SQL database for streaming Spotify tracker data. Utilized Python to connect to the database, employing SQL queries to clean and process the data effectively. Constructed and compared Random Forest Regression and ALS models, incorporating both implicit and explicit rates. Identified the optimal model, featuring explicit rates, achieving a minimal Root Mean Squared Error (RMSE) of 0.3364.
 
+[GitHub Pages](https://github.com/Chenzhang0329/Spotify-Music-Recommendation-Spark)
 
-
+### Stock Forecasting with a Hybrid LSTM model
+This project involved scraping financial news headlines for five companies (Google, Apple, Tesla, Amazon, and Microsoft) using R, and collecting stock price data through Python and the Yahoo Finance API. Sentiment analysis models were then applied to the news headlines, resulting in sentiment scores. The scores were standardized using max-min standardization and added to the final database. A comparative analysis of LSTM, Linear Regression, and a Hybrid model combining both was conducted, with the LSTM model achieving the lowest Root Mean Square Error (RMSE) of 3.04.
 
