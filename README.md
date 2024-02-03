@@ -41,4 +41,11 @@ This project involved designing and coding an RShiny dashboard to offer investor
 
 [GitHub Pages](https://github.com/Chenzhang0329/Dashboard-for-48-Automakers-stock-price)
 
+### Other Relevant Academic Projects
+- Toronto Crime Data Analysis by Geographically Weighted Regression
+- Credit Score Classification by Random Forests
+- Influencing Factors of Paper Plane’s Flying Distance Experiment Design
+- Spaceship Tanitic Classification on Kaggle
+- House Price Prediction on Kaggle
+
 
