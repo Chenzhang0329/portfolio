@@ -32,7 +32,7 @@ Developed a comprehensive project involving the creation of a Postgres SQL datab
 This project involved scraping financial news headlines for five companies (Google, Apple, Tesla, Amazon, and Microsoft) using R, and collecting stock price data through Python and the Yahoo Finance API. Sentiment analysis models were then applied to the news headlines, resulting in sentiment scores. The scores were standardized using max-min standardization and added to the final database. A comparative analysis of LSTM, Linear Regression, and a Hybrid model combining both was conducted, with the LSTM model achieving the lowest Root Mean Square Error (RMSE) of 3.04.
 
 [GitHub Pages](https://github.com/Chenzhang0329/StockPrice-Hybrid-Model-)
-
+![Stock Market](stock_market.jpeg)
 ### Dashboard for Top48 Automakers' Stock Price
 This project involved designing and coding an RShiny dashboard to offer investors four key functions: statistical summary, historical stock price analysis, comparison analysis, and stock forecast. The dashboard included a candlestick chart with a movable timeline for analyzing bullish and bearish trends. Additionally, the ARIMA model was applied to provide basic forecasting of future stock prices, utilizing 'auto.arima' to identify the best ARIMA model for each selected automaker. The completed project was pushed to GitHub with a comprehensive readme, providing readers with an introduction on how to use the dashboard.
 
