@@ -1,10 +1,12 @@
 # Data Scientist
 
 #### Technical Skills: Python, R, SAS, SQL, MATLAB, Tableau
+#### Certifications: SAS Base Programmer, SAS Advanced Programmer, Tableau Specialist Certification, IBM Data Scientist Certification
 
 ## Education
 - M.S., Data Science | The University of Guelph (_September 2022 - December 2023_)
 - B.S., Mathematics and Statistics | The University of Toronto (_September 2017 - June 2021_)
+
 
 ## Work Experience
 **Data Scientist Intern @ Linamar Ihub (_May 2023 - September 2023_)**
