@@ -33,7 +33,7 @@ This project involved scraping financial news headlines for five companies (Goog
 
 [GitHub Pages](https://github.com/Chenzhang0329/StockPrice-Hybrid-Model-)
 
-![Stock Market](stock_market.jpeg)
+![Stock Market](stock_market.png)
 ### Dashboard for Top48 Automakers' Stock Price
 This project involved designing and coding an RShiny dashboard to offer investors four key functions: statistical summary, historical stock price analysis, comparison analysis, and stock forecast. The dashboard included a candlestick chart with a movable timeline for analyzing bullish and bearish trends. Additionally, the ARIMA model was applied to provide basic forecasting of future stock prices, utilizing 'auto.arima' to identify the best ARIMA model for each selected automaker. The completed project was pushed to GitHub with a comprehensive readme, providing readers with an introduction on how to use the dashboard.
 
