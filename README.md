@@ -9,6 +9,13 @@
 
 
 ## Work Experience
+**Statistical & Research Analysst @ Ministry of Eduction (_August 2024 - May 2025_)**
+- Validated school board priority school exchange requests for the Math Strategy team, maintaining accuracy and reliability in the dataset to support effective decision-making.
+- Conducted a school-level analysis of the proportion of students in Grade 3, 6, and 9 priority schools with EQAO scores below the provincial standard before and after funding (2021-22 to 2023-24) to evaluate the impact of financial support on reducing underperformance.
+- Performed a student-level analysis comparing three-year trends in the proportion of students at different EQAO performance levels between priority and non-priority schools, providing the Math Strategy team with data-driven insights to focus on specific performance levels.
+- Utilized ANOVA, Tukey’s Test, Trend Analysis, and T-tests to validate analysis results and ensure statistical significance, ultimately producing independent reports for each grade and an overall summary report.
+- Assisted the Support Lead in conducting functional testing for the Ministry-level Graduation Rate Cohort Tool (GRAD Tool) to ensure its readiness for official launch across the entire ministry.
+
 **Data Scientist Intern @ Linamar Ihub (_May 2023 - September 2023_)**
 - Worked with the Linamar Manufacturing Monitoring System (LMMS) team to resolve over 1000 terminology mismatches across 60 global factories, established a reference list for future data collection.
 - Designed the adjusted outlier detection system by combining the designed cycle time and z-score interval based on each machine.
