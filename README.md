@@ -16,6 +16,12 @@
 - Utilized ANOVA, Tukey’s Test, Trend Analysis, and T-tests to validate analysis results and ensure statistical significance, ultimately producing independent reports for each grade and an overall summary report.
 - Assisted the Support Lead in conducting functional testing for the Ministry-level Graduation Rate Cohort Tool (GRAD Tool) to ensure its readiness for official launch across the entire ministry.
 
+**Data Analyst Assistant @ Treasury Board Secretariat (_May 2024 - Aug 2024_)**
+- Collaborated with the policy analyst team to address historical emergency data unmatched issues, achieving an 80% resolution rate using Python scripts.
+- Utilized pre-trained Natural Language Processing (NLP) models to capture semantic similarities between unstructured records and defined hazard categories, resulting in 75% successful data and enhancing EMO’s ability to analyze and document hazard trends over time.
+- Assisted a senior data analyst in using PowerBI to create a dashboard for the Preparedness Centre of Excellence (PCoE), enabling data-driven recommendations on how best to train and make use of volunteers from across the OPS.
+
+
 **Data Scientist Intern @ Linamar Ihub (_May 2023 - September 2023_)**
 - Worked with the Linamar Manufacturing Monitoring System (LMMS) team to resolve over 1000 terminology mismatches across 60 global factories, established a reference list for future data collection.
 - Designed the adjusted outlier detection system by combining the designed cycle time and z-score interval based on each machine.
